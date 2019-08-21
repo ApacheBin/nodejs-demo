@@ -11,4 +11,4 @@ exports.x = 10;
 exports.y = 20;
 exports.fn = function () {
     console.log("你好！！！")
-}
+};
